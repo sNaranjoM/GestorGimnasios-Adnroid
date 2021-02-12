@@ -1,2 +1,2 @@
 # GestorGimnasios-Adnroid
-![](https://github.com/sNaranjoM/GestorGimnasios-Adnroid/blob/img/imgPrincipal(1).jpg)
+![](https://github.com/sNaranjoM/GestorGimnasios-Android/blob/img/imgPrincipal%20(1).jpg)
